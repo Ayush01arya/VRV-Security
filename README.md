@@ -40,5 +40,5 @@ This repository contains a **React.js-based RBAC Dashboard** designed for managi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rbac-dashboard.git
+   git clone https://github.com/Ayush01arya/rbac-dashboard.git
    cd rbac-dashboard
